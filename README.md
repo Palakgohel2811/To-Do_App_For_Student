@@ -25,4 +25,3 @@ A full-stack Task Manager web application built using Flask. This app allows use
 
 ---
 
-## 📁 Project Structure
